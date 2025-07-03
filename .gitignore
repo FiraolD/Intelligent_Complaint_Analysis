@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 Data/
+Visualizations/
+vector_store/
 # Distribution / packaging
 .Python
 build/
