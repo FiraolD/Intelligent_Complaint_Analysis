@@ -1,0 +1,10 @@
+faiss-cpu
+sentence-transformers
+transformers
+langchain
+pandas
+numpy
+pickle
+torch
+accelerate
+gradio  # For Task 4 later
