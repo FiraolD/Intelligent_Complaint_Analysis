@@ -2,12 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+Mistral-7B-Instruct-v0.1/
 # C extensions
 *.so
 Data/
-Visualizations/
-vector_store/
+
 # Distribution / packaging
 .Python
 build/
