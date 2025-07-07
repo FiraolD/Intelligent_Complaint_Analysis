@@ -4,7 +4,9 @@ transformers
 langchain
 pandas
 numpy
-pickle
 torch
 accelerate
-gradio  # For Task 4 later
+gradio 
+matpotlib
+wordcloud
+seaborn
